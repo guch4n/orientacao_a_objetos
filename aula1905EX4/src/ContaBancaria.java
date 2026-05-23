@@ -22,7 +22,6 @@ public class ContaBancaria {
     }
 
     public double getSaldo() {
-        System.out.println("Seu saldo é de: ");
         return this.saldo;
     }
 }
